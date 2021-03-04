@@ -1,0 +1,24 @@
+{
+    "name": "Ade",
+    "address": {
+        "hometown": "Kaliurang",
+        "city": "Yogyakarta",
+        "provins": "DIY"
+    },
+    "birth": {
+        "day": 31,
+        "month": "Februari",
+        "year": 2025
+    },
+    "jobs": [
+        {
+        "title": "Bootcamp Participant",
+        "tech": "React Native"
+        },
+        {
+        "title": "Web Developer",
+        "tech": "VueJs, Laravel"
+        }
+    ],
+    "old": 35
+}
